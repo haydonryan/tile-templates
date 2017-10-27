@@ -1,0 +1,32 @@
+{
+  "mysql": {
+    "instances": 3
+  },
+  "backup-prepare": {
+    "instances": 0
+  },
+  "proxy": {
+    "instances": 2
+  },
+  "monitoring": {
+    "instances": 1
+  },
+  "cf-mysql-broker": {
+    "instances": 2
+  },
+  "broker-registrar": {
+    "instances": 1
+  },
+  "deregister-and-purge-instances": {
+    "instances": 1
+  },
+  "rejoin-unsafe": {
+    "instances": 1
+  },
+  "smoke-tests": {
+    "instances": 1
+  },
+  "bootstrap": {
+    "instances": 1
+  }
+}
