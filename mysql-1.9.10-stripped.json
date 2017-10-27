@@ -15,6 +15,13 @@
     "value": "disable",
     "optional": false
   },
+  ".properties.optional_protections.enable.recipient_email": {
+      "type": "email",
+      "configurable": true,
+      "credential": false,
+      "value": "fake@nul.com",
+      "optional": false
+    },
   ".properties.optional_protections.enable.prevent_auto_rejoin": {
     "value": false,
     "optional": false
