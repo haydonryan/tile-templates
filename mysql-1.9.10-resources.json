@@ -9,7 +9,7 @@
     "instances": 2
   },
   "monitoring": {
-    "instances": 1
+    "instances": 0
   },
   "cf-mysql-broker": {
     "instances": 2
